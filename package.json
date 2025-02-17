@@ -1,0 +1,20 @@
+{
+  "name": "applicationinsights",
+  "version": "1.0.0",
+  "description": "Sample Node.js application that uses Azure Monitor Application Insights to enable Live Metrics Stream for real-time monitoring.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukrsite/applicationinsights.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukrsite/applicationinsights/issues"
+  },
+  "homepage": "https://github.com/ukrsite/applicationinsights#readme"
+}
